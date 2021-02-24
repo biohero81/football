@@ -1,5 +1,5 @@
 
-# 2. Fix Docker
+# 2. Fix und Feature Docker file
 
 # Fix einfügen:
 
